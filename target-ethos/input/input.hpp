@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <termios.h>
 #include <linux/kd.h>
-#include <ncursesw/curses.h>
+#include <curses.h>
 #include <sys/ioctl.h>
 #include <sys/stat.h>
 

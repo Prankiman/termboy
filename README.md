@@ -18,7 +18,7 @@ Required Libraries:
 * alsa
 * ncurses
 
-**Note:** The definition for mvaddwstr is in "ncursesw/curses.h" on Ubuntu, but it's just "curses.h" on Arch Linux.  For development purposes, Just create an ncurses folder in /usr/include and symlink ncursesw/curses.h to curses.h.
+**Note:** The definition for mvaddwstr is in "ncursesw/curses.h" on Ubuntu, but it's just "curses.h" on Arch Linux.  For development purposes symlink curses.h toncursesw/curses.h if running on Ubuntu
 
 Usage
 -----

@@ -5,6 +5,7 @@
 #include "resource/resource.cpp"
 #include "../ananke/ananke.hpp"
 #include <stdio.h>
+#include <locale.h>
 
 Program* program = nullptr;
 DSP dspaudio;

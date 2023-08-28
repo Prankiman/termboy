@@ -1,4 +1,4 @@
-#include <ncursesw/curses.h>
+#include <curses.h>
 #include <emulator/emulator.hpp>
 
 #include <nall/platform.hpp>
